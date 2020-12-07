@@ -5,7 +5,7 @@
   "main": "out/main.js",
   "author": "Vladimir Krivosheev",
   "license": "MIT",
-  "repository": "electron-userland/electron-builder",
+  "repository": "elliottkember/electron-builder",
   "bugs": "https://github.com/electron-userland/electron-builder/issues",
   "homepage": "https://github.com/electron-userland/electron-builder",
   "files": [
